@@ -5,9 +5,9 @@ public class BankClass {
     public static void main(String[] args) {
 	
 	String BANKNAME;
-	private double balance ; // instance Variable
+	double balance ; // instance Variable
 	/*private*/ String accountType; // instance variable
-	private double finalBalanceValue;
+	double finalBalanceValue;
 	// Welcome Money +++
 	}
 }
