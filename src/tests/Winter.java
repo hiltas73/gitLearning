@@ -6,6 +6,5 @@ public class Winter {
         System.out.println("Help me!");
         System.out.println("args = " + args);
 
-
     }
 }
