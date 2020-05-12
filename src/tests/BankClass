@@ -1,6 +1,6 @@
 package tests;
 
-public class BankPART1 {
+public class BankClass {
 
     public static void main(String[] args) {
 	
